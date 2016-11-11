@@ -1,0 +1,6 @@
+C:\Users\18tinjus\Documents\HPT\Lesson 3\CorrectionsCalculator\CorrectionsCalculator\bin\Debug\CorrectionsCalculator.exe.config
+C:\Users\18tinjus\Documents\HPT\Lesson 3\CorrectionsCalculator\CorrectionsCalculator\bin\Debug\CorrectionsCalculator.exe
+C:\Users\18tinjus\Documents\HPT\Lesson 3\CorrectionsCalculator\CorrectionsCalculator\bin\Debug\CorrectionsCalculator.pdb
+C:\Users\18tinjus\Documents\HPT\Lesson 3\CorrectionsCalculator\CorrectionsCalculator\obj\Debug\CorrectionsCalculator.csprojResolveAssemblyReference.cache
+C:\Users\18tinjus\Documents\HPT\Lesson 3\CorrectionsCalculator\CorrectionsCalculator\obj\Debug\CorrectionsCalculator.exe
+C:\Users\18tinjus\Documents\HPT\Lesson 3\CorrectionsCalculator\CorrectionsCalculator\obj\Debug\CorrectionsCalculator.pdb

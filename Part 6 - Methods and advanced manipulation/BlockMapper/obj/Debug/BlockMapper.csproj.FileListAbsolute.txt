@@ -1,0 +1,6 @@
+C:\Users\18tinjus\Documents\HPT\Lesson 3\BlockMapper\BlockMapper\bin\Debug\BlockMapper.exe.config
+C:\Users\18tinjus\Documents\HPT\Lesson 3\BlockMapper\BlockMapper\bin\Debug\BlockMapper.exe
+C:\Users\18tinjus\Documents\HPT\Lesson 3\BlockMapper\BlockMapper\bin\Debug\BlockMapper.pdb
+C:\Users\18tinjus\Documents\HPT\Lesson 3\BlockMapper\BlockMapper\obj\Debug\BlockMapper.csprojResolveAssemblyReference.cache
+C:\Users\18tinjus\Documents\HPT\Lesson 3\BlockMapper\BlockMapper\obj\Debug\BlockMapper.exe
+C:\Users\18tinjus\Documents\HPT\Lesson 3\BlockMapper\BlockMapper\obj\Debug\BlockMapper.pdb

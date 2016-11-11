@@ -1,0 +1,5 @@
+C:\Users\18tinjus\Documents\HPT\Lesson 3\AgeJudger\AgeJudger\bin\Debug\AgeJudger.exe.config
+C:\Users\18tinjus\Documents\HPT\Lesson 3\AgeJudger\AgeJudger\bin\Debug\AgeJudger.exe
+C:\Users\18tinjus\Documents\HPT\Lesson 3\AgeJudger\AgeJudger\bin\Debug\AgeJudger.pdb
+C:\Users\18tinjus\Documents\HPT\Lesson 3\AgeJudger\AgeJudger\obj\Debug\AgeJudger.exe
+C:\Users\18tinjus\Documents\HPT\Lesson 3\AgeJudger\AgeJudger\obj\Debug\AgeJudger.pdb
