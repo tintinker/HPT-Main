@@ -10,6 +10,7 @@ namespace Rock_Paper_Scissors
     {
         static void Main(string[] args)
         {
+            new Game(Game.TWOPLAYERS).go();
         }
     }
 }
